@@ -2,6 +2,8 @@
 
 Tai akademinis programų sistemų analizės ir projektavimo projektas, kuriame modeliuojama siuntų pristatymo paštomatais sistema. Sistema skirta siuntų registravimui, apmokėjimui, sekimui, paštomatų valdymui ir kurjerio maršrutų planavimui.
 
+Projekto tikslas – suprojektuoti ir iš dalies realizuoti siuntų pristatymo paštomatais sistemą(pagrindinį funkcionalumą), pritaikant programų sistemų analizės ir projektavimo principus. Projekte daug dėmesio skiriama UML diagramoms, reikalavimų specifikavimui, sistemos architektūrai ir realizacijos atitikimui projektavimo modeliui.
+
 ## Projekto funkcionalumas
 
 - Vartotojo registracija ir prisijungimas
@@ -47,9 +49,8 @@ Projekto dokumentacijoje pateikta:
 
 Dokumentacijos failas: [PastomatuSistemaL3.pdf](https://github.com/user-attachments/files/28327494/PastomatuSistemaL3.pdf)
 
-## Projekto tikslas
 
-Projekto tikslas – suprojektuoti ir iš dalies realizuoti siuntų pristatymo paštomatais sistemą, pritaikant programų sistemų analizės ir projektavimo principus. Projekte daug dėmesio skiriama UML diagramoms, reikalavimų specifikavimui, sistemos architektūrai ir realizacijos atitikimui projektavimo modeliui.
+
 
 
 
